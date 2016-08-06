@@ -28,9 +28,11 @@ p {
 ul {
   list-style: none;
   display: inline;
+  position: 100% 100%;
 }
 li {
   display: inline;
+  position: 100% 100%;
 }
 .footer {
     margin: auto;
