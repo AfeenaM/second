@@ -25,15 +25,7 @@ p {
   font-family: Tahoma;
   font-size: 20px;
 }
-ul {
-  list-style: none;
-  display: inline;
-  position: center;
-}
-li {
-  display: inline;
-  text-align: center;
-}
+
 .footer {
     margin: auto;
     background-color: white;
