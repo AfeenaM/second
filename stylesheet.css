@@ -38,13 +38,13 @@ li {
     height: 25px;
     width: 400px;
     margin: auto;
-    background-color: white;
+    background-color: #BEBEBE;
     text-align: center;
     display: inline;
     position: fixed;
     bottom: 0;
     left: 40%;
-    color: #BEBEBE;
+    color: white;
   font-family: Tahoma;
   font-size: 20px;
   text-shadow: 0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE;
