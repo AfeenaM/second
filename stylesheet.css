@@ -28,19 +28,16 @@ p {
 ul {
   list-style: none;
   display: inline;
-  position: 100% 100%;
 }
 li {
   display: inline;
-  position: 100% 100%;
 }
 .footer {
     margin: auto;
-    float: bottom;
     background-color: white;
     text-align: center;
     display: inline;
-    position: fixed;
+    position: fixed center;
     bottom: 0;
   }
 img {
