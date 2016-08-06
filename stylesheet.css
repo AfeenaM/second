@@ -37,7 +37,7 @@ li {
     background-color: white;
     text-align: center;
     display: inline;
-    position: fixed center;
+    position: fixed;
     bottom: 0;
   }
 img {
