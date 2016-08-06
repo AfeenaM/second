@@ -40,7 +40,8 @@ li {
     background-color: white;
     text-align: center;
     display: inline;
-    position: 100% 100%;
+    position: fixed;
+    bottom: 0;
   }
 img {
 float: right;
