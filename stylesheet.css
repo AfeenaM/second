@@ -28,9 +28,11 @@ p {
 ul {
   list-style: none;
   display: inline;
+  margin: auto;
 }
 li {
   display: inline;
+  margin: auto;
 }
 .footer {
     margin: auto;
