@@ -34,6 +34,8 @@ li {
   text-align: center;
 }
 .footer {
+    height: 15px;
+    width: 30px;
     margin: auto;
     background-color: white;
     text-align: center;
