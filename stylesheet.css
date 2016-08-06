@@ -43,6 +43,9 @@ li {
     position: fixed;
     bottom: 0;
     left: 40%;
+    color: #BEBEBE;
+  font-family: Tahoma;
+  font-size: 20px;
   }
 img {
 float: right;
