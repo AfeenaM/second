@@ -27,12 +27,17 @@ p {
 }
 ul {
   list-style: none;
+  display: inline;
+}
+li {
+  display: inline;
 }
 .footer {
     margin: auto;
     float: bottom;
     background-color: white;
     text-align: center;
+    display: inline;
   }
 img {
 float: right;
