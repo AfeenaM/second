@@ -25,6 +25,7 @@ p {
   color: #BEBEBE;
   font-family: Tahoma;
   font-size: 20px;
+  text-shadow: 0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE;
 }
 ul {
   list-style: none;
@@ -47,6 +48,7 @@ li {
     color: #BEBEBE;
   font-family: Tahoma;
   font-size: 20px;
+  text-shadow: 0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE,0px 0px 1px #BEBEBE;
   }
 img {
 float: right;
