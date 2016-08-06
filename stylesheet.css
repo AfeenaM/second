@@ -30,7 +30,9 @@ ul {
 }
 .footer {
     display: inline;
-    position: bottom;
+    float: bottom;
+    background-color: white;
+    text-align: center;
   }
 img {
 float: right;
