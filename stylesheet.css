@@ -29,7 +29,7 @@ ul {
   list-style: none;
 }
 .footer {
-    display: inline;
+    margin: auto;
     float: bottom;
     background-color: white;
     text-align: center;
