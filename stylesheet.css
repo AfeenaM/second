@@ -10,3 +10,6 @@ position: relative;
 top: 100px;
 left: 800px;
 }
+.image {
+  border: solid black 2px;
+}
