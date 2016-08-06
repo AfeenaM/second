@@ -27,9 +27,10 @@ p {
 }
 ul {
   list-style: none;
-  display: inline;
 }
-
+li {
+    display: inline;
+  }
 img {
 float: right;
 }
