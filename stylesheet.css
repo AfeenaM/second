@@ -6,7 +6,7 @@ p {
   font-size: 52;
 }
 img {
-position: relative;
+float: right;
 }
 .image {
   border: solid 1px black;
