@@ -6,7 +6,7 @@ body {
   background-size: 100%;
 }
 h1 {
-  font-family: Lucida;
+  font-family: Tahoma;
   font-size: 70px;
   text-align: center;
   border: solid, white, 5px;
@@ -17,11 +17,11 @@ nav {
   height: 700px;
   background-color: white;
   border: white solid 5px;
-  position: 50% 0%;
+  float: right;
 }
 p {
   color: #BEBEBE;
-  font-family: Lucida;
+  font-family: Tahoma;
   font-size: 20px;
 }
 
