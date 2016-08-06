@@ -28,6 +28,7 @@ p {
 ul {
   list-style: none;
   display: inline;
+  position: center;
 }
 li {
   display: inline;
