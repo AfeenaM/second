@@ -6,5 +6,7 @@ p {
   font-size: 52;
 }
 img {
-  align: center;
+  position: relative;
+  top:200;
+  left 300;
 }
