@@ -1,4 +1,8 @@
 /*stylesheet*/
+body {
+  background: url("http://s11.favim.com/orig/160220/amazing-art-artistic-black-Favim.com-4022821.jpg");
+}
+
 p {
   color: red;
   text-align: center;
