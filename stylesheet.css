@@ -3,16 +3,17 @@ body {
   background: url("https://cdn.artaic.com/wp-content/uploads/2015/03/artaic-white-cityscape-cityscape-mist-tile-0305403-900x600.jpg");
   background-repeat: no-repeat;
   background-position: 50% 0%;
-  background-size: cover;
-
+  background-size: 100%;
 }
-
+nav {
+  border: white solid 5px;
+}
 p {
-  color: red;
-  text-align: center;
-  font-family: cursive;
-  font-size: 52;
+  color: #BEBEBE;
+  font-family: Courier New;
+  font-size: 20px;
 }
+
 img {
 float: right;
 }
