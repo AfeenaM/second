@@ -28,7 +28,7 @@ p {
 ul {
   list-style: none;
 }
-li {
+.footer {
     display: inline;
   }
 img {
