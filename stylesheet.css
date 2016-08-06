@@ -27,8 +27,9 @@ p {
 }
 ul {
   list-style: none;
-  display: inlilne;
+  display: inline;
 }
+
 img {
 float: right;
 }
