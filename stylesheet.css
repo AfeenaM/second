@@ -2,6 +2,8 @@
 body {
   background: url("http://s11.favim.com/orig/160220/amazing-art-artistic-black-Favim.com-4022821.jpg");
   background-repeat: no-repeat;
+  background-size: 200%;
+  background-position: 50% 30%;
 }
 
 p {
