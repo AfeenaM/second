@@ -25,7 +25,9 @@ p {
   font-family: Tahoma;
   font-size: 20px;
 }
-
+.foot {
+  display: inlilne;
+}
 img {
 float: right;
 }
