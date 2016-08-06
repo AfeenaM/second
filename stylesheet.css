@@ -38,6 +38,7 @@ li {
     background-color: white;
     text-align: center;
     display: inline;
+    position: 100% 100%;
   }
 img {
 float: right;
