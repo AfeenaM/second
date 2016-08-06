@@ -28,11 +28,10 @@ p {
 ul {
   list-style: none;
   display: inline;
-  margin: 0;
 }
 li {
   display: inline;
-  margin: 0;
+  text-align: center;
 }
 .footer {
     margin: auto;
