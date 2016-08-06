@@ -28,7 +28,7 @@ p {
 ul {
   list-style: none;
   display: inline;
-  margin: auto;
+  margin: 0;
 }
 li {
   display: inline;
